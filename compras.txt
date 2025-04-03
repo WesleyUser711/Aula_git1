@@ -1,7 +1,7 @@
 1 arroz
 2 carne
 3 leite
-4 feijao
+4 feijao preto
 5 ovos
 7 alface
 8 azeite
