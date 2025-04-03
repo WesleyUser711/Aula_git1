@@ -3,3 +3,5 @@
 3 leite
 4 feijao
 5 ovos
+7 alface
+8 azeite
