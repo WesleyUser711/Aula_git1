@@ -1,0 +1,5 @@
+1 arroz
+2 carne
+3 leite
+4 feijao
+5 ovos
